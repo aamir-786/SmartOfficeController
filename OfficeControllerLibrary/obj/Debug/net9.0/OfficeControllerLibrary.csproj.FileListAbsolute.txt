@@ -1,0 +1,11 @@
+D:\C#\SmartOfficeController\OfficeControllerLibrary\bin\Debug\net9.0\OfficeControllerLibrary.deps.json
+D:\C#\SmartOfficeController\OfficeControllerLibrary\bin\Debug\net9.0\OfficeControllerLibrary.dll
+D:\C#\SmartOfficeController\OfficeControllerLibrary\bin\Debug\net9.0\OfficeControllerLibrary.pdb
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\OfficeControllerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\OfficeControllerLibrary.AssemblyInfoInputs.cache
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\OfficeControllerLibrary.AssemblyInfo.cs
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\OfficeControllerLibrary.csproj.CoreCompileInputs.cache
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\OfficeControllerLibrary.dll
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\refint\OfficeControllerLibrary.dll
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\OfficeControllerLibrary.pdb
+D:\C#\SmartOfficeController\OfficeControllerLibrary\obj\Debug\net9.0\ref\OfficeControllerLibrary.dll
