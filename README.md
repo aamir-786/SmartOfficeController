@@ -1,6 +1,3 @@
-Certainly! Below is the content for the README.md file for your SmartOfficeController project. You can copy and paste this content into a file named README.md in the Docs/ directory of your project.
-README.md
-markdownCopy
 # Smart Office Controller Project
 
 ## Project Overview
@@ -73,7 +70,7 @@ Copy
 Ensure your project structure looks like this:
 SmartOfficeController/
 │
-├── Source/
+├── OfficeController/
 │   ├── OfficeController.cs
 │   ├── IDoorManager.cs
 │   ├── ILightManager.cs
@@ -81,17 +78,11 @@ SmartOfficeController/
 │   ├── IWebService.cs
 │   └── IEmailService.cs
 │
-├── Tests/
+├── OfficeControllerTests/
 │   └── OfficeControllerTests.cs
 │
 ├── Docs/
 │   ├── README.md
 │   └── Requirements Checklist.docx
 │
-├── Demo/
-│   └── DemoVideo.mp4
-│
 └── SmartOfficeController.sln
-Copy
-
-By following these steps, you will have a well-documented `README.md` file ready for your project submission.
